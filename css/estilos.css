@@ -12,6 +12,9 @@ header{
 	width: 60%;
 
 }
+.boton{/*para elegir el semestre*/
+	background: blue;
+}
 @media screen and (max-width: 768px){
 	header{
 	margin-bottom: 8em;
